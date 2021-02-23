@@ -1,3 +1,5 @@
-[
-  "http://www.dlib.org/dlib/november14/giannakopoulos/11giannakopoulos.html"
-]
+{
+  "blacklist": [
+    "http://www.dlib.org/dlib/november14/giannakopoulos/11giannakopoulos.html"
+  ]
+}
