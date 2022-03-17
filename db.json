@@ -1,5 +1,6 @@
 {
   "blacklist": [
-    "http://www.dlib.org/dlib/november14/giannakopoulos/11giannakopoulos.html"
+    "http://www.dlib.org/dlib/november14/giannakopoulos/11giannakopoulos.html",
+    "chrome://"
   ]
 }
